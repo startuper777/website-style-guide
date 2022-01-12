@@ -44,3 +44,58 @@ h2 {
     margin: 20px auto;
     min-height: 100px;
 }
+
+.pink {
+    background-color: #d957d9;
+    color: #000;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige { 
+    background-color: #efd9ca;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito-sans { 
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.regular {
+    font-size: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
